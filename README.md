@@ -1,5 +1,5 @@
-## MERN STACK + TYPESCRIPT + REDUX | BLOG
-### MERN Stack Build  a blog app using MERN  + Typescript + Redux  + Bootstrap 5 + ReactQuill + Socket.io + Twilio
+#### MERN STACK + TYPESCRIPT + REDUX | BLOG
+##### MERN Stack Build  a blog app using MERN  + Typescript + Redux  + Bootstrap 5 + ReactQuill + Socket.io + Twilio
 > + Register, login with Email or Phone number.
 > + Quick login with Google, Facebook, SMS.
 > + Forgot password, reset password and register a new account by Email or SMS verification.
@@ -10,20 +10,18 @@
 
  
  
-### Install dependencies for server 
-#### `npm install`
+#### Install dependencies for server 
+##### `npm install`
 
-### Install dependencies for client
-#### cd client ---> `npm install`
+#### Install dependencies for client
+##### cd client ---> `npm install`
 
-### Connect to your mongodb and add info in .env
+#### Connect to your mongodb and add info in .env
 
-### Run the Express server only
-#### `npm run dev`
+#### Run the Express server only
+##### `npm run dev`
 
-### Run the React client only
-#### cd client ---> `npm start`
-
-### Server runs on http://localhost:5000 and client on http://localhost:3000
- 
+#### Run the React client only
+##### cd client ---> `npm start`
+  
 
