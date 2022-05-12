@@ -7,7 +7,6 @@
 > + Create new blog with React quill.
 > + Comment realtime with Socket.io
 > + Pagination, search with autocomplete Mongodb
-
  
  
 #### Install dependencies for server 
