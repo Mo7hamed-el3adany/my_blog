@@ -6,7 +6,7 @@
 > + Update personal information (name, password and avatar)
 > + Create new blog with React quill.
 > + Comment realtime with Socket.io
-> + Pagination, search with autocomplete Mongodb
+> + Pagination, search with autocomplete Mongodb 
  
  
 #### Install dependencies for server 
