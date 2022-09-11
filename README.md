@@ -19,8 +19,3 @@
 
 #### Run the Express server only
 ##### `npm run dev`
-
-#### Run the React client only
-##### cd client ---> `npm start`
-  
-
